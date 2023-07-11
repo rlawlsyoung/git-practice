@@ -5,3 +5,5 @@ git practice 2
 // conflict 해결 후 다시 commit
 
 git practice !
+
+issue2 브랜치에서 작성함
