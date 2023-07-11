@@ -1,10 +1,1 @@
-git practice 1
-git practice a
-git practice 2
-
-// conflict 해결 후 다시 commit
-
-git practice !
-
-issue2 브랜치에서 작성함
-issue3 브랜치에서 작성함
+test2에서 작성함
