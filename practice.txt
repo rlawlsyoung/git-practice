@@ -7,3 +7,4 @@ git practice 2
 git practice !
 
 issue2 브랜치에서 작성함
+issue3 브랜치에서 작성함
