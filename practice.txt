@@ -1,2 +1,5 @@
 git practice 1
 git practice a
+git practice 2
+
+// conflict 해결 후 다시 commit
